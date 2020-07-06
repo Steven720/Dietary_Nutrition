@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813684882336",
+    "firebase_url": "https://dietary-nutrition-1dfde.firebaseio.com",
+    "project_id": "dietary-nutrition-1dfde",
+    "storage_bucket": "dietary-nutrition-1dfde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813684882336:android:1e91430eef087faa0a42c5",
+        "android_client_info": {
+          "package_name": "com.example.dietarynutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813684882336-qdit6d9jobpeau3jjntnt5lh0avmncup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dietarynutrition",
+            "certificate_hash": "dcac33a9b2737e9730c1fe736581496ef89402d9"
+          }
+        },
+        {
+          "client_id": "813684882336-bpqv1mkktot0p9hrhbv06ba6u39hmkqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hF6l0tZGv1RGTUxRdaOYghI35hXXJ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813684882336-bpqv1mkktot0p9hrhbv06ba6u39hmkqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

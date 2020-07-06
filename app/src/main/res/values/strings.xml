@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dietary Nutrition</string>
+    <string name="app_icon">app_icon</string>
+    <string name="register_email">Enter E-mail address</string>
+    <string name="register_password">Enter password</string>
+    <string name="register_button">Register</string>
+    <string name="app_version">v0.0.1</string>
+</resources>
